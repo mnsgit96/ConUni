@@ -48,3 +48,5 @@ Temporary Items
 ContosoUniversity/bin/
 ContosoUniversity/obj/Debug/
 ContosoUniversity/obj/
+packages/WebGrease.1.5.2/lib/
+packages/
